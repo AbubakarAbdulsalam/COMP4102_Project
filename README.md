@@ -10,6 +10,31 @@ Team Members:
 Abubakar Abdulsalam
 Gurveer Dhindsa
 
+# Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+For building and running the application you may need:
+- [Jupyter Notebook](https://jupyter.org/install)
+
+### Installing
+First, clone this repository to your local machine using `https://github.com/AbubakarAbdulsalam/COMP4102_Project.git
+
+### Running the application locally
+Option 1:
+To view the mode code, execute
+```
+jupyter notebook TrainedModel.ipynb
+```
+To view a sample rediction, execute
+```
+jupyter notebook SamplePrediction.ipynb
+```
+
+Option 2:
+There is an option to view source code WITHIN GitHub/Google Colab. To do so, click on a .ipynb file within the GitHub repository.
+Also, you can click the 'Open in Colab' button on the top of the .ipynb file to open it in Google Colab. This way you can run execute the file within your browser!
+Note, running TranedMode.ipynb could take up to several hours as we are dealing with such a large dataset.
 
 # 1. Abstract
 This project is aimed towards classifying and detecting 30 National Basketball Association (NBA) teams in the current 2020 season. This can assist the general population in identifying and learning about the various teams by simply taking a photograph containing a logo. The photograph can be anything ranging from a teams’ poster, merchandise item or the floorboards of the stadium.
